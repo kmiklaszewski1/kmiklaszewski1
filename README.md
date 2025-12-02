@@ -55,11 +55,6 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark)](https://git.io/streak-stats)
-
----
 
 ## 🤝 Let's Connect!
 
@@ -84,16 +79,12 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmiklaszewski1&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00ff00&text_color=ffffff&title_color=00ff00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmiklaszewski1&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ff00" alt="Top Languages" width="48%" />
-</div>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=0d1117&ring=00ff00&fire=ff4444)](https://github.com/kmiklaszewski1)
 ---
 
 ## 📥 Activity & Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=0d1117&ring=00ff00&fire=ff4444&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&dates=ffffff&border=00ff00)](https://git.io/streak-stats)
 
 ---
 
