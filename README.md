@@ -47,12 +47,13 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 ## 🏆 My Passion
 
 ⚡ I'm passionate about:
-- Writing **clean, readable code** that others can understand
-- Building **engaging game mechanics** that captivate players
-- Learning **advanced programming** patterns and game design
-- Contributing to **collaborative projects** and mentoring others
-- Combining **art with math** to create amazing gaming experiences
 
+- 💪 Going to the gym and constant self-improvement
+- ⚽ Playing and watching football
+- 🚀 Learning new technologies and tools
+- 🎮 Playing video games across different genres
+- 🕹️ Creating games and interactive experiences
+- ✈️ Traveling around the world
 ---
 
 
