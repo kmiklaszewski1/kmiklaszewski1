@@ -73,8 +73,7 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 ## 📊 GitHub Statistics
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=0d1117&ring=00ff00&fire=ff4444)](https://github.com/kmiklaszewski1)
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=%23d1117&ring=00ff00&fire=ff4444)---
 
 ## 📥 Activity & Contributions
 
