@@ -135,23 +135,14 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 ## 🤗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/kamil-miklaszewski-7a5609201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kmiklaszewski1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kmiklaszewski1.github.io/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.filmweb.pl/user/Kamil2908" target="_blank">
-    <img src="https://img.shields.io/badge/Filmweb-0D47A1?style=for-the-badge&logo=film&logoColor=white" alt="Filmweb"/>
-  </a>
-  <a href="https://www.instagram.com/kamiloo_official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-miklaszewski-7a5609201)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kmiklaszewski1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kmiklaszewski1.github.io/index.html)
+[![Filmweb](https://img.shields.io/badge/Filmweb-0047AB?style=for-the-badge&logo=letterboxd&logoColor=white)](https://www.filmweb.pl/user/Kamil2908)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamiloo_official)
+
+</div>
 ---
 
 ## 🌟 My Philosophy
