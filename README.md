@@ -57,14 +57,6 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 ---
 
 
-## 🤝 Let's Connect!
-
-💼 **Portfolio:** [kmiklaszewski1.github.io](https://kmiklaszewski1.github.io/index.html)
-
-🎬 **Filmweb:** [My Profile](https://www.filmweb.pl/user/Kamil2908)
-
-📧 **Always open to:** Game dev opportunities, collaboration, and interesting projects!
-
 ---
 
 *"Code is poetry, Games are dreams made interactive." ✨*
