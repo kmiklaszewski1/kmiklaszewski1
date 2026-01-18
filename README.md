@@ -75,6 +75,9 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=2d3748&ring=00ff08&fire=ff4444)](https://github.com/kmiklaszewski1)## 📥 Activity & Contributions
 
+---
+
+
 
 
 
