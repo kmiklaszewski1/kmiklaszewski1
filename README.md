@@ -54,14 +54,7 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 - 🎮 Playing video games across different genres
 - 🕹️ Creating games and interactive experiences
 - ✈️ Traveling around the world
----
-
-
----
-
-*"Code is poetry, Games are dreams made interactive." ✨*
-
-
+  
 ---
 
 ## 📠 Latest Updates
@@ -71,25 +64,6 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 ---
 
 <div align="center">
-## 📊 GitHub Statistics
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmiklaszewski1&theme=dark&background=2d3748&ring=00ff08&fire=ff4444)](https://github.com/kmiklaszewski1)
----
-</div>
-
-
-
-
-
-
-
-
-
----
-
-## 📥 Activity & Contributions
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmiklaszewski1&theme=github-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/kmiklaszewski1)
 
 ---
 
@@ -144,14 +118,6 @@ Filmweb: https://www.filmweb.pl/user/Kamil2908
 
 </div>
 ---
-
-## 🌟 My Philosophy
-
-> *“Code is poetry, Games are dreams made interactive.” ✨*
->
-> *“Every line of code tells a story. Make it worth reading.” 📚*
->
-> *“In game development, the player’s joy is the ultimate currency.” 🎆*
 
 ---
 
